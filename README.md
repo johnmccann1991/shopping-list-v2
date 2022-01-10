@@ -9,3 +9,13 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
+- Bacon
+- Eggs
+- Xbox
+- Milk
+- OJ
+- Wine
+
+
+
+
